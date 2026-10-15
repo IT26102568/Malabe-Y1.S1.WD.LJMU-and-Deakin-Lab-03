@@ -20,8 +20,7 @@ public class IT26102568Lab3Q1B {
 		
 		System.out.println();
 		System.out.println("The total amount is:" + amountToPay);
-		
-		
+			
 		
 	}
 	
